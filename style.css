@@ -1,18 +1,27 @@
 
 body {
-text-align: center;
+height: 100vh;
 font-family: "Cormorant Garamond";
 background-image: url("hanu_garden.png");
 background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
 }
 
 main {
-position: relative;
-top: 300px;
+display: flex;
+justify-content: center;
+}
+
+footer {
+display: flex;
+justify-content: center;
 }
 
 a {
-display: block;
+display: flex;
+justify-content: center;
 max-width: 250px;
 margin: 20px auto;
 padding: 20px;
@@ -41,9 +50,4 @@ border: 1px solid black;
 
 .hanu :visited {
 color: lightgrey;
-}
-
-footer {
-position: relative;
-top: 600px;
 }
