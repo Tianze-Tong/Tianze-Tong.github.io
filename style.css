@@ -1,0 +1,49 @@
+
+body {
+text-align: center;
+font-family: "Cormorant Garamond";
+background-image: url("hanu_garden.png");
+background-size: cover;
+}
+
+main {
+position: relative;
+top: 300px;
+}
+
+a {
+display: block;
+max-width: 250px;
+margin: 20px auto;
+padding: 20px;
+border: 1px solid black;
+font-size: 18px;
+text-transform: uppercase;
+font-weight: 700;
+background-color: rgba(255, 255, 255, 0.6);
+}
+
+.garden :hover {
+background-color: lightgreen;
+color: white;
+border: 1px solid black;
+}
+
+.garden :visited {
+color: peru;
+}
+
+.hanu :hover {
+background-color: grey;
+color: white;
+border: 1px solid black;
+}
+
+.hanu :visited {
+color: lightgrey;
+}
+
+footer {
+position: relative;
+top: 600px;
+}
