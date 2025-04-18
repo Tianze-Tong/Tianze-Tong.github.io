@@ -1,0 +1,72 @@
+
+body {
+text-align: center;
+font-family: "Cormorant Garamond";
+}
+
+h1 {
+font-weight: 700;
+font-size: 24px;
+margin: 20px;
+}
+
+h2 {
+font-weight: 400;
+font-size: 18px;
+margin: 20px;
+}
+
+footer {
+font-weight: 100;
+}
+
+a:hover {
+background-color: grey;
+color: white;
+border: 1px solid black;
+}
+
+a:visited {
+color: lightgrey;
+}
+
+img {
+  padding: 20px;
+  border: 1px solid;
+}
+
+#h0606 img{
+  width: 25%;
+  display: inline-block;
+  background-color: rgba(0, 255, 255, 1);
+}
+
+#h0607 img{
+  width: 25%;
+  display: inline-block;
+  background-color: rgba(255, 0, 255, 1);
+}
+
+#h0608 img{
+  width: 25%;
+  display: inline-block;
+  background-color: rgba(255, 255, 0, 1);
+}
+
+#h0706 img{
+  width: 25%;
+  display: inline-block;
+  background-color: rgba(0, 255, 255, 1);
+}
+
+#h0817 img{
+  width: 25%;
+  display: inline-block;
+  background-color: rgba(255, 0, 255, 1);
+}
+
+#h0824 img{
+  width: 25%;
+  display: inline-block;
+}
+
