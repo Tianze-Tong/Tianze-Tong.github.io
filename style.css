@@ -47,17 +47,3 @@ footer {
 position: relative;
 top: 600px;
 }
-
-@media screen and (max-width: 640px){
-
-main {
-position: relative;
-top: 600px;
-}
-
-footer {
-position: relative;
-top: 900px;
-}
-
-}
