@@ -4,7 +4,6 @@ text-align: center;
 font-family: "Cormorant Garamond";
 background-image: url("hanu_garden.png");
 background-size: cover;
-background-repeat: no-repeat;
 }
 
 main {
@@ -47,4 +46,18 @@ color: lightgrey;
 footer {
 position: relative;
 top: 600px;
+}
+
+@media screen and (max-width: 640px){
+
+main {
+position: relative;
+top: 600px;
+}
+
+footer {
+position: relative;
+top: 900px;
+}
+
 }
