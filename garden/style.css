@@ -1,0 +1,65 @@
+
+body {
+text-align: center;
+font-family: "Cormorant Garamond";
+}
+
+a:hover {
+background-color: lightgreen;
+color: white;
+border: 1px solid black;
+}
+
+a:visited {
+color: peru;
+}
+h1 {
+font-weight: 700;
+font-size: 24px;
+margin: 20px;
+}
+
+h2 {
+font-weight: 400;
+font-size: 18px;
+margin: 20px;
+}
+
+footer {
+font-weight: 100;
+}
+
+img {
+  padding: 20px;
+  border: 1px solid;
+}
+
+#agastache img{
+  width: 25%;
+  display: inline-block;
+}
+
+#hummingbird_mint img{
+  width: 25%;
+  display: inline-block;
+}
+
+#spanish_sage img{
+  width: 25%;
+  display: inline-block;
+}
+
+#santa_babara img{
+  width: 25%;
+  display: inline-block;
+}
+
+#sage_other img{
+  width: 25%;
+  display: inline-block;
+}
+
+#citrus img{
+  width: 25%;
+  display: inline-block;
+}
